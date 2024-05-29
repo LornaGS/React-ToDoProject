@@ -1,0 +1,36 @@
+{
+  "Tasks": [
+    {
+      "name": "Create json file",
+      "description": "Create a json file to hold data and then spin it up as an api from the terminal",
+      "imageURL": "",
+      "time": "5",
+      "priority": "Easy",
+      "id": "1"
+    },
+    {
+      "name": "Display Tasks",
+      "description": "Display the tasks on the display screen ",
+      "imageURL": "",
+      "time": "30",
+      "priority": "Medium",
+      "id": "2"
+    },
+    {
+      "name": "Styling",
+      "description": "Style the website using CSS",
+      "imageURL": "",
+      "time": "60",
+      "priority": "Hard",
+      "id": "3"
+    },
+    {
+      "id": "d099",
+      "name": "create todo app",
+      "description": "create a website to display and add a to do list",
+      "url": "photos",
+      "time": "200",
+      "priority": "hard"
+    }
+  ]
+}
