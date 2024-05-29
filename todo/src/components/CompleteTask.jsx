@@ -10,7 +10,7 @@ export default function CompleteTask () {
       <div className="tick">
             
             
-            <p>tick</p>
+            <p>New Task</p>
               
                
            

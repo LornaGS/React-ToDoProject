@@ -27,7 +27,7 @@ export default function FetchData() {
             
              name={item.name}
              description={item.description}
-             imageUrl={item.imageUrl}
+             imageUrl={item.imageURL}
              time={item.time}
              priority={item.priority}
              id={item.id}

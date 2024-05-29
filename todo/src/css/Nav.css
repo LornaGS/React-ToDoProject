@@ -1,5 +1,5 @@
 nav {
-    box-shadow: rgba(0, 0, 0, 0.08) 0 5px 8px;
+    box-shadow: rgba(68, 34, 34, 0.08) 0 5px 8px;
   }
   
   nav h1 {
@@ -11,7 +11,7 @@ nav {
   
     background-color: #0b2025;
   
-    color:pink;
+    color: lightpink
   }
   
   nav ul {

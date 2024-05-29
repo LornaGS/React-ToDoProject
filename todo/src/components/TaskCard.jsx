@@ -5,28 +5,25 @@ import '../css/Display.css'
 import CompleteTask from './CompleteTask'
 
 
+
 export default function TaskCard ( {name, description, imageUrl, time, priority, id}) {
-
-
-// console.log({description})
-
 
   return (
 
   
       <div className="item-card">
-               <h3>To Do </h3>
+
           
-           <CompleteTask />
-           
+            
+                <img src={imageUrl} width={400} height={250} />
+                <button className="btn">New</button>
+             
+                <p className="p-one" ><span></span>{name}</p>
+                <p ClassName="p-three"><span>✾ </span> {time} mins</p>
+                <p ClassName="p-four"><span>📓 </span> {priority}</p>
+                <p ClassName="p-two"><span> </span> {description}</p>
 
-                <p ><span> Task: </span>{name}</p>
-                <img src={imageUrl} width={200} height={250} />
-                <p ><span>Description :</span> {description}</p>
-                <p ><span>Time to complete :</span> {time} mins</p>
-                <p ><span>Priority:</span> {priority}</p>
-
-           
+          
         </div>
    
   )

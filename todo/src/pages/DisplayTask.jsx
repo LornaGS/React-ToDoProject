@@ -7,7 +7,7 @@ export default function DisplayTask() {
         
         <div>
             
-                <h2>Task List</h2>
+                <h1>Task List</h1>
                 
    
 
