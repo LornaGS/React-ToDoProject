@@ -5,7 +5,7 @@ export default function DisplayTask() {
 
         return (
         
-        <div>
+        <div className="DisplayTaskDiv">
             
                 <h1>Task List</h1>
                 

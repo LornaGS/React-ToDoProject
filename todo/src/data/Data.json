@@ -1,0 +1,176 @@
+{
+    "Buyers": [
+      {
+        "id": "ba7e",
+        "FirstName": "Test Surname 1",
+        "SurName": "Test Buyer 1"
+      },
+      {
+        "id": "cbf1",
+        "FirstName": "Hello",
+        "SurName": "World"
+      },
+      {
+        "id": "377a",
+        "FirstName": "Jordon",
+        "SurName": "B"
+      },
+      {
+        "id": "e732",
+        "FirstName": "Test3",
+        "SurName": "Test 3"
+      },
+      {
+        "id": "ba87",
+        "FirstName": "test 4",
+        "SurName": "test 4"
+      },
+      {
+        "id": "c431",
+        "FirstName": "tet6",
+        "SurName": "test6"
+      },
+      {
+        "id": "7bca",
+        "FirstName": "test8",
+        "SurName": "test 8"
+      },
+      {
+        "id": "2b69",
+        "FirstName": "test10",
+        "SurName": "test10"
+      },
+      {
+        "id": "e84c",
+        "FirstName": "test11",
+        "SurName": "test11"
+      },
+      {
+        "id": "a9cc",
+        "FirstName": "test12",
+        "SurName": "test12"
+      },
+      {
+        "id": "0898",
+        "FirstName": "test13",
+        "SurName": "test13"
+      },
+      {
+        "id": "f970",
+        "FirstName": "test14",
+        "SurName": "test14"
+      },
+      {
+        "id": "f054",
+        "FirstName": "Fridaytest1",
+        "SurName": "Fri Day"
+      },
+      {
+        "id": "a2f9",
+        "FirstName": "Fridaytest1",
+        "SurName": "Fri Day"
+      },
+      {
+        "id": "9cf7",
+        "FirstName": "Friday2",
+        "SurName": "SurFriday"
+      },
+      {
+        "id": "446b",
+        "FirstName": "Friday2",
+        "SurName": "surfriday"
+      },
+      {
+        "id": "f57b",
+        "FirstName": "Friday2",
+        "SurName": "surfriday"
+      },
+      {
+        "id": "6bfc",
+        "FirstName": "Friday3",
+        "SurName": "Surfriday"
+      },
+      {
+        "id": "bc2f",
+        "FirstName": "Friday3",
+        "SurName": "Surfriday"
+      },
+      {
+        "id": "942e",
+        "FirstName": "blank",
+        "SurName": "blank"
+      }
+    ],
+    "Sellers": [
+      {
+        "ID": 1,
+        "FirstName": "Praveen",
+        "SurName": "Karnam",
+        "id": "f95d"
+      },
+      {
+        "ID": 2,
+        "FirstName": "Andrew",
+        "SurName": "Rennie",
+        "id": "27c4"
+      },
+      {
+        "ID": 3,
+        "FirstName": "Lorna",
+        "SurName": "Smith",
+        "id": "e8b7"
+      },
+      {
+        "ID": 4,
+        "FirstName": "Suzy",
+        "SurName": "Brown",
+        "id": "f182"
+      }
+    ],
+    "Properties": [
+      {
+        "ID": 1,
+        "ImageUrl": "https://th.bing.com/th/id/OIP.KN-6-mRpSjbWxjQkOKFnHAHaEl?rs=1&pid=ImgDetMain",
+        "Address": "Buckhingham Palace",
+        "Price": "120000",
+        "Bedrooms": 4,
+        "Bathrooms": 2,
+        "Garden": "Yes",
+        "SaleStatus": "FORSALE",
+        "id": "63a8"
+      },
+      {
+        "ID": 2,
+        "ImageUrl": "https://www.idesignarch.com/wp-content/uploads/Luxury-Custom-Waterfront-Beach-House-Morehead-City-North-Carolina_1.jpg",
+        "Address": "10 Downing Street",
+        "Price": "500000000",
+        "Bedrooms": 10,
+        "Bathrooms": 20,
+        "Garden": "Yes",
+        "SaleStatus": "FORSALE",
+        "id": "4c9d"
+      },
+      {
+        "ID": 3,
+        "ImageUrl": "https://i.pinimg.com/originals/7e/82/ae/7e82aef7d0cc2f754488e287f687aace.jpg",
+        "Address": "25 Gresham Street, London",
+        "Price": "250000",
+        "Bedrooms": 1,
+        "Bathrooms": 1,
+        "Garden": "No",
+        "SaleStatus": "WITHDRAWN",
+        "id": "72f8"
+      },
+      {
+        "ID": 4,
+        "ImageUrl": "https://wallup.net/wp-content/uploads/2019/09/978033-mansion-house-architecture-luxury-building-design.jpg",
+        "Address": "Edinburgh Castle",
+        "Price": "20000000",
+        "Bedrooms": 4,
+        "Bathrooms": 2,
+        "Garden": "Yes",
+        "SaleStatus": "SOLD",
+        "id": "648b"
+      }
+    ]
+  }

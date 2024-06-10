@@ -1,14 +1,16 @@
 import {useState, useEffect} from 'react'
 import TaskCard from './TaskCard';
 import '../css/Display.css'
+
+
 export default function FetchData() {
  
-    const apiUrl = 'http://localhost:8000/Tasks'
+    // const apiUrl = 'http://localhost:8000/Tasks'
 
-    const [apiData, setData] = useState([]);
+    const [apiData, setData] = useState("");
 
     useEffect(() => {
-     fetch('http://localhost:8000/Tasks')
+     fetch('http://localhost:8001/Tasks')
         .then((response) => response.json())
         .then((data) => setData(data))
     }, 
@@ -20,7 +22,7 @@ export default function FetchData() {
     return(
        < main>
 
-<div className="items-grid">
+      <div className="items-grid">
           
           {apiData.map((item) => (
            <TaskCard

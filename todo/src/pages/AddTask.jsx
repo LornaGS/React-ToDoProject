@@ -4,7 +4,7 @@ export default function AddTask() {
 
         return (
         
-        <div>
+        <div className="AddTaskDiv">
             
                 <h2>Add a Task</h2>
                 
