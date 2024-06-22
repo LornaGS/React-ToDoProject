@@ -3,6 +3,7 @@ import AddProperty from "../components/AddProperty"
 import '../css/Home.css'
 import { useState } from "react"
 import DisplayProperty from "../components/DisplayProperty"
+import DisplayJob from "../components/DisplayJob"
 
 
 
@@ -13,9 +14,9 @@ export default function HomePage() {
         
             return (
                 <div>
-                    HOME PAGE
-                    <DisplayProperty /> 
-                    <AddProperty />
+             
+                    <DisplayJob /> 
+                    {/* <AddProperty /> */}
                 </div>
                 )
         }
