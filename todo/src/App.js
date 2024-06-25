@@ -10,6 +10,8 @@ import DisplayTask from './pages/DisplayTask'
 function App() {
   return (
     <div className="App">
+
+      <h1>PlanetTA</h1>
 <BrowserRouter>
     
       <NavBar />
