@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 export default function Navbar() {
   return (
     <nav>
-      <h1>To Do App</h1>
+      <h1></h1>
 
       <ul>
         <li>
@@ -14,11 +14,11 @@ export default function Navbar() {
         </li>
 
          <li>
-          <Link to="/AddTask">Add Task</Link>
+          {/* <Link to="/AddTask">Add Task</Link> */}
         </li>
 
          <li>
-           <Link to="/DisplayTask">Display Task</Link>
+           <Link to="/DisplayJobs">Jobs</Link>
         </li> 
       </ul>
     </nav>

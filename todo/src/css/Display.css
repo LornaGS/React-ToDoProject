@@ -50,9 +50,9 @@ h1 {
 
     background-color: black;
   }
-    .item-card p:first-child{
+    /* .item-card p:first-child{
         writing-mode: vertical-rl; 
-    }
+    } */
     
     .item-card > p {
   

@@ -1,6 +1,7 @@
 import {useState, useEffect} from 'react'
-import TaskCard from './TaskCard';
+import JobCard from './JobCard';
 import '../css/Display.css'
+
 
 
 export default function FetchData() {
@@ -25,14 +26,17 @@ export default function FetchData() {
       <div className="items-grid">
           
           {apiData.map((item) => (
-           <TaskCard
+           <JobCard
             
-             name={item.name}
-             description={item.description}
-             imageUrl={item.imageURL}
-             time={item.time}
-             priority={item.priority}
-             id={item.id}
+           id= {item.id}
+           CompanyLogoURL={item.CompanyLogoURL}
+           Job={item.Job}
+           Company =  {item.Company}
+           Salary={item.Salary}
+           Type={item.Type}
+           Type2={item.Type2}
+           Description={item.Description}
+           Status={item.Status}
            />
          ))}
        </div>

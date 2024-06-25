@@ -1,0 +1,72 @@
+{
+"Jobs": [
+    {
+      "CompanyLogoURL": "https://react-icons.github.io/react-icons/search/#q=company",
+      "Job": "Data Scientist",
+      "Company" : "Google",
+      "Salary": "80k",
+      "Type": "Part-time",
+      "Type2": "Permanant",
+      "Description": "Youre hired",
+      "Status": "New",
+      "id": "63a8"
+   
+    },
+    {
+      "CompanyLogoURL": "https://react-icons.github.io/react-icons/search/#q=company",
+      "Job": "Software Engineer",
+      "Company" : "Oracle",
+      "Salary": "100k",
+      "Type": "Full-time",
+      "Type2": "Permanant",
+      "Description": "An excellent job",
+      "Status": "New",
+      "id": "63a8"
+    },
+    {
+      "CompanyLogoURL": "https://react-icons.github.io/react-icons/search/#q=company",
+      "Job": "Administrator",
+      "Company" : "Planet TA",
+      "Salary": "tbc",
+      "Type": "Seasonal",
+      "Type2": "Temporay",
+      "Description": "Youll love this job",
+      "Status": "New",
+      "id": "63a8"
+    },
+    {
+      "CompanyLogoURL": "hhttps://react-icons.github.io/react-icons/search/#q=company",
+      "Job": "General Practioner",
+      "Company" : "Planet TA",
+      "Salary": "200",
+      "Type": "Full-time",
+      "Type2": "Contract",
+      "Description": "Find me",
+      "Status": "New",
+      "id": "63a8"
+    },
+    {
+      "CompanyLogoURL": "https://react-icons.github.io/react-icons/search/#q=company",
+      "Job": "Software Engineer",
+      "Company" : "Planet TA",
+      "Salary": "£100k",
+      "Type": "Full-time",
+      "Type2": "Permanant",
+      "Description": "£80k",
+      "Status": "New",
+      "id": "63a8"
+    },
+    {
+      "CompanyLogoURL": "https://planetta.co.uk/",
+      "Job": "Software Engineer",
+      "Company" : "Planet TA",
+      "Salary": "£100k",
+      "Type": "Full-time",
+      "Type2": "Permanant",
+      "Description": "£80k",
+      "Status": "New",
+      "id": "63a8"
+    }
+  ]
+ 
+}
